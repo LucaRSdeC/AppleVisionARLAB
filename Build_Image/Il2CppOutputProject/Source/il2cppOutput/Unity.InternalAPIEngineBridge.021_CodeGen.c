@@ -1,0 +1,163 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mCF960BE558BBC99350BAD502D030FA7C58C1AB8F (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m21D4B6C681199D62E4728809795D41EC37E2E67C (void);
+extern void ObjectBridge_FindObjectFromInstanceID_mE785076FD59EA2F1FC9DCD54228E6ADEFF456A7E (void);
+extern void ObjectBridge_FindObjectFromInstanceID_m8F1103A8729D58623B33C78E54FBD3772140095C (void);
+extern void ObjectBridge_MarkDirty_m8B625FDE68B39995EEF9DEE918BCE0EAF741EFCB (void);
+extern void ObjectDispatcherProxy__ctor_m7761C7A86C5BC812BD9534F08464B78029E6D19E (void);
+extern void ObjectDispatcherProxy__ctor_mE1AEC5F6F143E8AE230DF29C028FB91FE78738CE (void);
+extern void ObjectDispatcherProxy__ctor_m594FE639F23D802EAB23C4AFCF52B80791894C12 (void);
+extern void ObjectDispatcherProxy_Dispose_m3206E97755F8E0AE5B9D02C6615306B16EEA4F13 (void);
+extern void ObjectDispatcherProxy_EnableTypeTracking_mCC4595855A018C56AE7B8DB0BB22AEEA25264A1D (void);
+extern void ObjectDispatcherProxy_DisableTypeTracking_mAD57E5D980C866A20EBFC09E248B008556CDC5C7 (void);
+extern void ObjectDispatcherProxy_EnableTransformTracking_mDE304AF83BDCD065ECD16FFA90526A2087703666 (void);
+extern void ObjectDispatcherProxy_DisableTransformTracking_m353C6E92EC518B1F8CC77349EA3D424A0A2D1D52 (void);
+extern void ObjectDispatcherProxy_DispatchTypeChangesAndClear_m691A3C1361164CA56F425D7289CD8DF4B5473B48 (void);
+extern void ObjectDispatcherProxy_DispatchTransformChangesAndClear_m8FE3172B44201673B01F6BA9A857E91DAE900CE6 (void);
+extern void ObjectDispatcherProxy_DispatchTypeChangesAndClear_mB008F7EF809274AD623569B0C081FEC0093E517A (void);
+extern void ObjectDispatcherProxy_DispatchTransformHierarchyChangesAndClear_mCFA18AA8E8C12DB93FA3D412C545A9705CCE28D7 (void);
+extern void ObjectDispatcherProxy_DispatchTransformLocalTRSChangesAndClear_m77EB191C7999840BDAE9146BA7F7C0575874D25B (void);
+extern void ObjectDispatcherProxy__cctor_mC76AE53B2E42C5AA4A4C4F5B4097F68D6C617BAA (void);
+extern void TypeDispatchData_Dispose_m02A3B5A0D410D2B3E39EF079BAB261B58D8EC3B5 (void);
+extern void TransformDispatchData__ctor_mFFE94306547F67D8DBBDC0792E6539059F6EED16 (void);
+extern void TransformDispatchData_Dispose_m5EACCE8A7CC23DB430401F699A4D472E9CB72E66 (void);
+extern void TextureBridge_SetAllowReadingInEditor_mE885382A98D86ABA23ADF409EBB0890302CC1847 (void);
+extern void TextureBridge_GetAllowReadingInEditor_mB6757054574308D73A50175AFADB1B8D144C04CF (void);
+extern void RendererBridge_GetSortingKey_m01AAD856FD79DE2E1EEC6610A11741A94AC472C5 (void);
+extern void RendererBridge_GetSortingGroupId_m317E1F6DBE61B3D2B6A2F79D115B992001308371 (void);
+extern void RendererBridge_GetSortingGroupOrder_mB87572E395E192D95660CE76532625CDB2043FCC (void);
+extern void RendererBridge_GetSortingGroupKey_mD84301D0FD30954790FEE92331702C8EA5A68509 (void);
+extern void SortingGroupBridge_GetSortingGroupId_mDFC24B466313E73A6C943A6143C674723E20E47F (void);
+extern void SortingGroupBridge_GetSortingGroupOrder_mE4D078F17809B92A4B2DF3770D77BC5DD672234B (void);
+extern void SortingGroupBridge_GetIndex_mEAC9F99B688B84A71BDB44D827F609396EA490D1 (void);
+extern void SortingGroupBridge_GetSortingKey_mE0B2C89406912929CF0EC133C254484CA2BD7CD3 (void);
+extern void SpriteRendererBridge_GetCurrentMeshData_m77E4147E98D82DD4318BC98CE82A96D502482901 (void);
+extern void MathBridge_ApproximatelyEqual_m748A12EABC6C158E7792C7814A17BCCC696A6C44 (void);
+static Il2CppMethodPointer s_methodPointers[36] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mCF960BE558BBC99350BAD502D030FA7C58C1AB8F,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m21D4B6C681199D62E4728809795D41EC37E2E67C,
+	ObjectBridge_FindObjectFromInstanceID_mE785076FD59EA2F1FC9DCD54228E6ADEFF456A7E,
+	ObjectBridge_FindObjectFromInstanceID_m8F1103A8729D58623B33C78E54FBD3772140095C,
+	NULL,
+	NULL,
+	ObjectBridge_MarkDirty_m8B625FDE68B39995EEF9DEE918BCE0EAF741EFCB,
+	ObjectDispatcherProxy__ctor_m7761C7A86C5BC812BD9534F08464B78029E6D19E,
+	ObjectDispatcherProxy__ctor_mE1AEC5F6F143E8AE230DF29C028FB91FE78738CE,
+	ObjectDispatcherProxy__ctor_m594FE639F23D802EAB23C4AFCF52B80791894C12,
+	ObjectDispatcherProxy_Dispose_m3206E97755F8E0AE5B9D02C6615306B16EEA4F13,
+	ObjectDispatcherProxy_EnableTypeTracking_mCC4595855A018C56AE7B8DB0BB22AEEA25264A1D,
+	ObjectDispatcherProxy_DisableTypeTracking_mAD57E5D980C866A20EBFC09E248B008556CDC5C7,
+	ObjectDispatcherProxy_EnableTransformTracking_mDE304AF83BDCD065ECD16FFA90526A2087703666,
+	ObjectDispatcherProxy_DisableTransformTracking_m353C6E92EC518B1F8CC77349EA3D424A0A2D1D52,
+	ObjectDispatcherProxy_DispatchTypeChangesAndClear_m691A3C1361164CA56F425D7289CD8DF4B5473B48,
+	ObjectDispatcherProxy_DispatchTransformChangesAndClear_m8FE3172B44201673B01F6BA9A857E91DAE900CE6,
+	ObjectDispatcherProxy_DispatchTypeChangesAndClear_mB008F7EF809274AD623569B0C081FEC0093E517A,
+	ObjectDispatcherProxy_DispatchTransformHierarchyChangesAndClear_mCFA18AA8E8C12DB93FA3D412C545A9705CCE28D7,
+	ObjectDispatcherProxy_DispatchTransformLocalTRSChangesAndClear_m77EB191C7999840BDAE9146BA7F7C0575874D25B,
+	ObjectDispatcherProxy__cctor_mC76AE53B2E42C5AA4A4C4F5B4097F68D6C617BAA,
+	TypeDispatchData_Dispose_m02A3B5A0D410D2B3E39EF079BAB261B58D8EC3B5,
+	TransformDispatchData__ctor_mFFE94306547F67D8DBBDC0792E6539059F6EED16,
+	TransformDispatchData_Dispose_m5EACCE8A7CC23DB430401F699A4D472E9CB72E66,
+	TextureBridge_SetAllowReadingInEditor_mE885382A98D86ABA23ADF409EBB0890302CC1847,
+	TextureBridge_GetAllowReadingInEditor_mB6757054574308D73A50175AFADB1B8D144C04CF,
+	RendererBridge_GetSortingKey_m01AAD856FD79DE2E1EEC6610A11741A94AC472C5,
+	RendererBridge_GetSortingGroupId_m317E1F6DBE61B3D2B6A2F79D115B992001308371,
+	RendererBridge_GetSortingGroupOrder_mB87572E395E192D95660CE76532625CDB2043FCC,
+	RendererBridge_GetSortingGroupKey_mD84301D0FD30954790FEE92331702C8EA5A68509,
+	SortingGroupBridge_GetSortingGroupId_mDFC24B466313E73A6C943A6143C674723E20E47F,
+	SortingGroupBridge_GetSortingGroupOrder_mE4D078F17809B92A4B2DF3770D77BC5DD672234B,
+	SortingGroupBridge_GetIndex_mEAC9F99B688B84A71BDB44D827F609396EA490D1,
+	SortingGroupBridge_GetSortingKey_mE0B2C89406912929CF0EC133C254484CA2BD7CD3,
+	SpriteRendererBridge_GetCurrentMeshData_m77E4147E98D82DD4318BC98CE82A96D502482901,
+	MathBridge_ApproximatelyEqual_m748A12EABC6C158E7792C7814A17BCCC696A6C44,
+};
+extern void TypeDispatchData_Dispose_m02A3B5A0D410D2B3E39EF079BAB261B58D8EC3B5_AdjustorThunk (void);
+extern void TransformDispatchData__ctor_mFFE94306547F67D8DBBDC0792E6539059F6EED16_AdjustorThunk (void);
+extern void TransformDispatchData_Dispose_m5EACCE8A7CC23DB430401F699A4D472E9CB72E66_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[3] = 
+{
+	{ 0x06000016, TypeDispatchData_Dispose_m02A3B5A0D410D2B3E39EF079BAB261B58D8EC3B5_AdjustorThunk },
+	{ 0x06000017, TransformDispatchData__ctor_mFFE94306547F67D8DBBDC0792E6539059F6EED16_AdjustorThunk },
+	{ 0x06000018, TransformDispatchData_Dispose_m5EACCE8A7CC23DB430401F699A4D472E9CB72E66_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[36] = 
+{
+	36272,
+	19925,
+	34002,
+	34003,
+	-1,
+	-1,
+	34647,
+	19925,
+	15198,
+	7643,
+	19925,
+	7120,
+	15198,
+	7120,
+	7120,
+	7643,
+	3576,
+	15198,
+	15198,
+	15198,
+	36225,
+	19925,
+	15404,
+	19925,
+	30536,
+	33429,
+	34471,
+	33713,
+	33713,
+	34471,
+	33713,
+	33713,
+	33713,
+	34471,
+	35430,
+	25873,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[2] = 
+{
+	{ 0x06000005, { 0, 1 } },
+	{ 0x06000006, { 1, 1 } },
+};
+extern const uint32_t g_rgctx_T_t5960FC0E23984D957B7C70ABF1E7B3D71863DC90;
+extern const uint32_t g_rgctx_T_t4300C4C6F29C65675C0C290C7479AC0AA3359DEF;
+static const Il2CppRGCTXDefinition s_rgctxValues[2] = 
+{
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_t5960FC0E23984D957B7C70ABF1E7B3D71863DC90 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_t4300C4C6F29C65675C0C290C7479AC0AA3359DEF },
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_InternalAPIEngineBridge_021_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_InternalAPIEngineBridge_021_CodeGenModule = 
+{
+	"Unity.InternalAPIEngineBridge.021.dll",
+	36,
+	s_methodPointers,
+	3,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	2,
+	s_rgctxIndices,
+	2,
+	s_rgctxValues,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
